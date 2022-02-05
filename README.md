@@ -3,6 +3,6 @@
 - 🌱 I should work more on microservices, non blocking IO, messaging in backend
 
 <!---
-YouSee10/YouSee10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jo418/jo418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
