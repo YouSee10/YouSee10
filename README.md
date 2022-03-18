@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jussi Opas, aka @jo418
+- Hi, I’m Jussi Opas, aka @jo418
 - 👀 I have used Java (20 years) and JavaScript (3 years), earlier also C/C++ (5 years).
 - 🌱 I am working with things of interest, such as cloud,  microservices, non blocking IO, and messaging in backend.
 - my latest gained exprience is GCP, Kubernetes, and OAuth2.
-- I use actively REact, JavaScript, TypeScript, Docker and Docker compose.
+- I use actively React, JavaScript, TypeScript, Docker, Docker Compose, Kubernetes, Kompose, and Helm.
 - I am reading a lot, all the time.
 
 <!---
